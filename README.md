@@ -1,49 +1,48 @@
-# Investigação de Dados - Consultas Médicas sem Presença
+# Data Investigation - Medical Appointments without Attendance
 
-## Índice
-1. [Introdução](#introdução)
-2. [Limpeza de Dados](#limpeza-de-dados)
-3. [Análise Exploratória de Dados](#análise-exploratória-de-dados)
-   - [Eficácia dos Lembretes por SMS](#eficácia-dos-lembretes-por-sms)
-   - [No-show por Bairro](#no-show-por-bairro)
-   - [Impacto do Intervalo entre Agendamento e Consulta](#impacto-do-intervalo-entre-agendamento-e-consulta)
-   - [Relação entre Bolsa Família e Condições de Saúde](#relação-entre-bolsa-família-e-condições-de-saúde)
-   - [Recorrência de No-show por Paciente e sua Relação com Condições de Saúde](#recorrência-de-no-show-por-paciente-e-sua-relação-com-condições-de-saúde)
-   - [Desafios na Presença para Pacientes com Deficiência](#desafios-na-presença-para-pacientes-com-deficiência)
-4. [Conclusões](#conclusões)
-5. [Limitações e Considerações](#limitações-e-considerações)
-6. [Próximos Passos](#próximos-passos)
+## Table of Contents
+1. [Introduction](#introduction)
+2. [Data Cleaning](#data-cleaning)
+3. [Exploratory Data Analysis](#exploratory-data-analysis)
+   - [Effectiveness of SMS Reminders](#effectiveness-of-sms-reminders)
+   - [No-show by Neighborhood](#no-show-by-neighborhood)
+   - [Impact of Time Interval between Scheduling and Appointment](#impact-of-time-interval-between-scheduling-and-appointment)
+   - [Relationship between Bolsa Família and Health Conditions](#relationship-between-bolsa-família-and-health-conditions)
+   - [Recurrence of No-show by Patient and its Relation to Health Conditions](#recurrence-of-no-show-by-patient-and-its-relation-to-health-conditions)
+   - [Challenges in Attendance for Patients with Handicap](#challenges-in-attendance-for-patients-with-handicap)
+4. [Conclusions](#conclusions)
+5. [Limitations and Considerations](#limitations-and-considerations)
+6. [Next Steps](#next-steps)
 
-## Introdução
-Este projeto analisa um conjunto de dados relacionado a consultas médicas e a presença ou ausência dos pacientes. A pesquisa aborda diversas questões, desde a eficácia dos lembretes por SMS até a recorrência de no-show por pacientes.
+## Introduction
+This project analyzes a dataset related to medical appointments and the presence or absence of patients. The research addresses various questions, from the effectiveness of SMS reminders to the recurrence of no-show by patients.
 
-## Limpeza de Dados
-O processo de limpeza de dados envolveu a conversão de tipos de dados, remoção de valores nulos e ajustes no formato de datas.
+## Data Cleaning
+The data cleaning process involved data type conversion, removal of null values, and adjustments to date formats.
 
-## Análise Exploratória de Dados
-### Eficácia dos Lembretes por SMS
+## Exploratory Data Analysis
+### Effectiveness of SMS Reminders
 
-### No-show por Bairro
-![Descrição da imagem](https://drive.google.com/file/d/1RPZQqtluKm37Okde4l_oh-dScpc1s9l0/view?usp=sharing)
+### No-show by Neighborhood
+![Image Description](https://drive.google.com/uc?export=download&id=1RPZQqtluKm37Okde4l_oh-dScpc1s9l0)
 
-### Impacto do Intervalo entre Agendamento e Consulta
-![Descrição da imagem](https://drive.google.com/file/d/1mG7fFQDoVrGcKtBue6oReKVF9dH1Ua-3/view?usp=sharing)
+### Impact of Time Interval between Scheduling and Appointment
+![Image Description](https://drive.google.com/uc?export=download&id=1mG7fFQDoVrGcKtBue6oReKVF9dH1Ua-3)
 
-### Relação entre Bolsa Família e Condições de Saúde
-![Descrição da imagem](https://drive.google.com/file/d/1kYnW2FqSRTnjCRtf0wmIhDxZOkNBnpU8/view?usp=sharing)
+### Relationship between Bolsa Família and Health Conditions
+![Image Description](https://drive.google.com/uc?export=download&id=1kYnW2FqSRTnjCRtf0wmIhDxZOkNBnpU8)
 
-### Recorrência de No-show por Paciente e sua Relação com Condições de Saúde
-![Descrição da imagem](https://drive.google.com/file/d/1lQodt4aVet9Nk0A2N46fyjOB5Ke4aQMj/view?usp=sharing)
+### Recurrence of No-show by Patient and its Relation to Health Conditions
+![Image Description](https://drive.google.com/uc?export=download&id=1lQodt4aVet9Nk0A2N46fyjOB5Ke4aQMj)
 
-### Desafios na Presença para Pacientes com Deficiência
-![Descrição da imagem](https://drive.google.com/file/d/18gpQb0sD3h72LQZ-iTsVF9jZhzWpQUUz/view?usp=sharing)
+### Challenges in Attendance for Patients with Handicap
+![Image Description](https://drive.google.com/uc?export=download&id=18gpQb0sD3h72LQZ-iTsVF9jZhzWpQUUz)
 
-## Conclusões
-Com base nos dados analisados, destacam-se a eficácia dos lembretes por SMS, a influência de determinados bairros e condições de saúde na presença dos pacientes.
+## Conclusions
+Based on the analyzed data, the effectiveness of SMS reminders, the influence of certain neighborhoods, and health conditions on patient attendance are highlighted.
 
-## Limitações e Considerações
-É importante ressaltar as limitações deste estudo, que não incluiu testes estatísticos robustos e não estabelece relações de causalidade.
+## Limitations and Considerations
+It is important to emphasize the limitations of this study, which did not include robust statistical tests and does not establish causal relationships.
 
-## Próximos Passos
-Recomenda-se investigações mais aprofundadas, incluindo variáveis socioeconômicas para uma compreensão abrangente.
-
+## Next Steps
+Further investigations are recommended, including socio-economic variables for a comprehensive understanding.
