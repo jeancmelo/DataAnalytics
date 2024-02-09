@@ -36,7 +36,8 @@ The data cleaning process involved data type conversion, removal of null values,
 ![Image Description](https://drive.google.com/uc?export=download&id=1lQodt4aVet9Nk0A2N46fyjOB5Ke4aQMj)
 
 ### Challenges in Attendance for Patients with Handicap
-![Image Description](https://drive.google.com/uc?export=download&id=18gpQb0sD3h72LQZ-iTsVF9jZhzWpQUUz)
+![Image Description](https://drive.google.com/uc?export=download&id=1M54UWifeA2CB3gUu8MCLPduU1n2lGjrF)
+
 
 ## Conclusions
 Based on the analyzed data, the effectiveness of SMS reminders, the influence of certain neighborhoods, and health conditions on patient attendance are highlighted.
