@@ -22,22 +22,21 @@ O processo de limpeza de dados envolveu a conversão de tipos de dados, remoçã
 
 ## Análise Exploratória de Dados
 ### Eficácia dos Lembretes por SMS
-[Inserir descrição e imagem aqui]
 
 ### No-show por Bairro
-[Inserir descrição e imagem aqui]
+![Descrição da imagem](https://drive.google.com/file/d/1RPZQqtluKm37Okde4l_oh-dScpc1s9l0/view?usp=sharing)
 
 ### Impacto do Intervalo entre Agendamento e Consulta
-[Inserir descrição e imagem aqui]
+![Descrição da imagem](https://drive.google.com/file/d/1mG7fFQDoVrGcKtBue6oReKVF9dH1Ua-3/view?usp=sharing)
 
 ### Relação entre Bolsa Família e Condições de Saúde
-[Inserir descrição e imagem aqui]
+![Descrição da imagem](https://drive.google.com/file/d/1kYnW2FqSRTnjCRtf0wmIhDxZOkNBnpU8/view?usp=sharing)
 
 ### Recorrência de No-show por Paciente e sua Relação com Condições de Saúde
-[Inserir descrição e imagem aqui]
+![Descrição da imagem](https://drive.google.com/file/d/1lQodt4aVet9Nk0A2N46fyjOB5Ke4aQMj/view?usp=sharing)
 
 ### Desafios na Presença para Pacientes com Deficiência
-[Inserir descrição e imagem aqui]
+![Descrição da imagem](https://drive.google.com/file/d/18gpQb0sD3h72LQZ-iTsVF9jZhzWpQUUz/view?usp=sharing)
 
 ## Conclusões
 Com base nos dados analisados, destacam-se a eficácia dos lembretes por SMS, a influência de determinados bairros e condições de saúde na presença dos pacientes.
